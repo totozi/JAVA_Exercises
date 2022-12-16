@@ -22,6 +22,7 @@ public class Exercise10_2 {
                 System.out.println("날짜를 yyyy/MM/dd 형태로 입력해주세요.");
             } catch(Exception e) {
                 System.out.println("날짜를 yyyy/MM/dd 형태로 다시 입력해주세요.");
+                // test
             }
         }
 
