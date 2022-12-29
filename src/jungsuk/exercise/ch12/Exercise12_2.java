@@ -13,6 +13,6 @@ public class Exercise12_2 {
 //    }
 //}
 
-\
+
 //        Juicer.<Fruit>makeJuice(new FruitBox<Grape>());
 //        Grape가 Fruit를 상속했다고 해도 타입이 달라 오류
