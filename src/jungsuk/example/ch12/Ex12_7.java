@@ -1,4 +1,4 @@
-package jungsuk.exercise.ch12;
+package jungsuk.example.ch12;
 
 public class Ex12_7 {
     public static void main(String[] args) {

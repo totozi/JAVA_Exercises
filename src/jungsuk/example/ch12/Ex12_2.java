@@ -1,6 +1,5 @@
-package jungsuk.exercise.ch12;
+package jungsuk.example.ch12;
 
-import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 

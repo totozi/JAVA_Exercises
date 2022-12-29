@@ -1,4 +1,4 @@
-package jungsuk.exercise.ch12;
+package jungsuk.example.ch12;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package jungsuk.exercise.ch12;
+package jungsuk.example.ch12;
 
 import java.lang.annotation.Annotation;
 import java.lang.annotation.Retention;
